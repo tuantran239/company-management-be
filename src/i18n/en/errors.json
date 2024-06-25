@@ -1,0 +1,21 @@
+{
+  "common": {
+    "not_found": "{entity} not found"
+  },
+  "dto": {
+    "email": {
+      "not_empty": "Email is required",
+      "not_valid": "Email is not valid"
+    }
+  },
+  "auth": {
+    "email_exists": "Email already exist, please try another email.",
+    "username_exists": "Username already exist, please try another username.",
+    "username_email_not_match": "Username or email not match, please try another.",
+    "password_not_match": "Password not match, please try another."
+  },
+  "permission": {
+    "action_type_not_valid": "action type not valid",
+    "subject_type_not_valid": "subject type not valid"
+  }
+}
